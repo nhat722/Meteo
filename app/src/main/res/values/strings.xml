@@ -1,0 +1,25 @@
+<resources>
+    <string name="locale">en</string>
+    <string name="locateBouton">Locate</string>
+    <string name="app_name">Snow</string>
+    <string name="selectStation">Select</string>
+    <string name="log_url">http://snowlabri.appspot.com/snow?station=</string>
+    <string name="onstart">onstart</string>
+    <string name="onresume">onresume</string>
+    <string name="oncreate">oncreate</string>
+    <string name="onpause">onpause</string>
+    <string name="onrestart">onrestart</string>
+    <string name="onstop">onstop</string>
+    <string name="ondestroy">ondestroy</string>
+    <string name="matin">Morning</string>
+    <string name="aprem">Afternoon</string>
+    <string name="vitVent">Wind speed</string>
+    <string name="nivNeige">Snow level</string>
+    <string name="searchBouton">Find</string>
+    <string name="isOpen1">Opened</string>
+    <string name="isOpen0">Closed</string>
+    <string name="hello">Hello</string>
+    <string name="action_settings">Settings</string>
+    <string name="changeLang">Français</string>
+    <string name="title_activity_station_list">Select</string>
+</resources>
